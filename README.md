@@ -8,7 +8,7 @@
   <a href="mailto:alirazachh176@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://modrenportfolio-ali.netlify.app/" target="_blank">
+  <a href="https://modernportfolio-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/chaliraza176" target="_blank">
