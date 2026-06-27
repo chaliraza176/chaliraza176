@@ -24,7 +24,7 @@
 - 💼 **Frontend Developer Intern** at Ayraxs Technologies Inc (Oct 2024 – Present)
 - 🚀 Building full-stack web & mobile apps using **React, Node.js, Flutter**
 - 📱 Experience with **React Native** and **Dart/Flutter** for mobile development
-- 🌐 Portfolio: [modrenportfolio-ali.netlify.app](https://modrenportfolio-ali.netlify.app/)
+- 🌐 Portfolio: [modrenportfolio-ali.netlify.app]( https://modernportfolio-six.vercel.app/) (https://modrenportfolio-ali.netlify.app/)
 - 📫 Reach me at: **alirazachh176@gmail.com**
  
 ---
