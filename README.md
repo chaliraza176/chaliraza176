@@ -20,7 +20,7 @@
  
 ### 👨‍💻 About Me
  
-- 🎓 **CS Student** at COMSATS University Vehari (2023–2026) — 5th Semester
+- 🎓 **CS Student** at COMSATS University Vehari (2023–2026) — 7th Semester
 - 💼 **Frontend Developer Intern** at Ayraxs Technologies Inc (Oct 2024 – Present)
 - 🚀 Building full-stack web & mobile apps using **React, Node.js, Flutter**
 - 📱 Experience with **React Native** and **Dart/Flutter** for mobile development
